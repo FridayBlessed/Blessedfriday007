@@ -11,13 +11,13 @@ Simplicity is the ultimate sophistication
 ## 🙋 About Me
 
 
-- 🔭 I’m currently working on **projects with CSS, PHP and MySQL**
+
 
 - 🌱 I’m currently learning more of **Javascript and Python**
 
 - 👯 I’m looking to collaborate on **projects with other developers**
 
-- 📫 How to reach me **Emmanuel.umeile.work@gmail.com**
+- 📫 How to reach me **Fridayblessed221@gmail.com**
 
 
 
