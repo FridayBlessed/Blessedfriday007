@@ -30,3 +30,9 @@ Simplicity is the ultimate sophistication
 <a href="https://twitter.com/Celestialfriday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_manuels" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/friday-blessed-34a026262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Umeilechukwu Emmanuel" height="30" width="40" /></a>
 </p>
+
+## 📊 Github Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-manuels&show_icons=true&locale=en&bg_color=0D1117" alt="Blessedfriday007" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-manuels&show_icons=true&locale=en&layout=compact&bg_color=0D1117" alt="Blessedfriday007" /></p>
