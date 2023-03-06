@@ -8,11 +8,11 @@
 ```
  🙋 About Me
 
-- 🌱 I’m currently learning more of **C and Python**
+- 🌱 I’m currently learning more of C and Python
 
-- 👯 I’m looking to collaborate on **projects with other developers**
+- 👯 I’m looking to collaborate on projects with other developers
 
-- 📫 How to reach me **Fridayblessed221@gmail.com**
+- 📫 How to reach me Fridayblessed221@gmail.com
 
 ```
 
