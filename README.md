@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on projects with other developers
 
-- 📫 How to reach me Fridayblessed221@gmail.com
+- 📫 How to reach me Fridayblessed333@gmail.com
 
 
 
