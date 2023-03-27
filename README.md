@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **Fridayblessed333@gmail.com**
 
+- ⚡ Fun fact **Nothing good comes easy.**
+
 
 
 
