@@ -6,12 +6,13 @@
 <h3 align="center">A passionate  developer from Nigeria.</h3>
 
 
-### 🙋 About Me
+## 🙋 About Me.
 
-- 🌱 I’m currently learning more of C and Python
+- 🔭 I’m currently working on **projects with C, CSS, HTML, and Python**
 
-- 📫 How to reach me Fridayblessed333@gmail.com
+- 🌱 I’m currently learning more of **C and Python**
 
+- 📫 How to reach me **Fridayblessed333@gmail.com**
 
 
 
