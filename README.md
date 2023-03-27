@@ -5,6 +5,10 @@
 <p align="center">
 </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1363DF&multiline=true&width=600&lines=Hi,+👋🏽+I'm+Friday+Blessed." alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate  developer from Nigeria.</h3>
 
