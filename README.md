@@ -1,6 +1,6 @@
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+page!&left=true&size=20">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+page!&center=true&size=20">
 </p>
 <p align="center">
 </p>
