@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on **projects with C, CSS, HTML, and Python**
 
-- 🌱 I’m currently learning more of **C and Python**
+- 🌱 I’m currently learning more of **Python**
 
 - 📫 How to reach me **Fridayblessed333@gmail.com**
 
