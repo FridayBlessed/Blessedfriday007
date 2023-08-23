@@ -19,7 +19,7 @@
 
 ## 🙋 About Me.
 
-- 🔭 I’m currently working on **projects with C, CSS, HTML, and Python**
+- 🔭 I’m currently working on **projects with  HTML, CSS, and Python**
 
 - 🌱 I’m currently learning more of **Python**
 
